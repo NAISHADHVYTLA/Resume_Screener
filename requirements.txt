@@ -1,0 +1,2 @@
+echo streamlit > requirements.txt
+echo pypdf >> requirements.txt
